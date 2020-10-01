@@ -31,3 +31,6 @@ clone this repo
 setup the workspace setting for CMake tool chain on vscode press `ctrl + shift + p`   serach preferences:Open Workspace Settings and
 add previously saved cmake tool chain path to the setting file 
 `"CMAKE_TOOLCHAIN_FILE":'[path to vcpkg]/scripts/buildsystems/vcpkg.cmake'`
+
+follow the link for linux kernal fix
+`https://github.com/IntelRealSense/librealsense/blob/master/doc/installation.md#prerequisites`
